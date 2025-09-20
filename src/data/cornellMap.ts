@@ -156,7 +156,7 @@ export const CORNELL_BUILDINGS: Building[] = [
   {
     id: 'uris-hall',
     name: 'Uris Hall',
-    position: { x: 440, y: 280 },
+    position: { x: 610, y: 630 },
     // width: 64,
     // height: 40,
     width: 77,
