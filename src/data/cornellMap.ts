@@ -144,7 +144,7 @@ export const CORNELL_BUILDINGS: Building[] = [
   {
     id: 'goldwin-smith',
     name: 'Goldwin Smith Hall',
-    position: { x: 360, y: 210 },
+    position: { x: 420, y: 380 },
     width: 72,
     height: 44,
     color: '#CD853F',
@@ -184,7 +184,7 @@ export const CORNELL_BUILDINGS: Building[] = [
   {
     id: 'mcgraw-hall',
     name: 'McGraw Hall',
-    position: { x: 240, y: 250 },
+    position: { x: 300, y: 300 },
     width: 64,
     height: 40,
     color: '#B31B1B',
@@ -194,7 +194,7 @@ export const CORNELL_BUILDINGS: Building[] = [
   {
     id: 'olin-library',
     name: 'Olin Library',
-    position: { x: 300, y: 300 },
+    position: { x: 370, y: 530 },
     width: 72,
     height: 48,
     color: '#8B8B8B',
@@ -204,7 +204,7 @@ export const CORNELL_BUILDINGS: Building[] = [
   {
     id: 'uris-library-clock',
     name: 'Uris Library & Clocktower',
-    position: { x: 200, y: 320 },
+    position: { x: 220, y: 650 },
     width: 72,
     height: 48,
     color: '#8B8B8B',
