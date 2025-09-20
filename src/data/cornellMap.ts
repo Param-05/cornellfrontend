@@ -144,7 +144,7 @@ export const CORNELL_BUILDINGS: Building[] = [
   {
     id: 'goldwin-smith',
     name: 'Goldwin Smith Hall',
-    position: { x: 420, y: 380 },
+    position: { x: 600, y: 800 },
     width: 72,
     height: 44,
     color: '#CD853F',
