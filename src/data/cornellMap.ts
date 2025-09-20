@@ -174,7 +174,7 @@ export const CORNELL_BUILDINGS: Building[] = [
   {
     id: 'lincoln-hall',
     name: 'Lincoln Hall',
-    position: { x: 280, y: 160 },
+    position: { x: 600, y: 160 },   
     width: 56,
     height: 36,
     color: '#B31B1B',
@@ -214,7 +214,7 @@ export const CORNELL_BUILDINGS: Building[] = [
   {
     id: 'baker-lab',
     name: 'Baker Laboratory',
-    position: { x: 600, y: 170 },
+    position: { x: 900, y: 170 },
     width: 72,
     height: 48,
     color: '#2C7A7B',
@@ -224,7 +224,7 @@ export const CORNELL_BUILDINGS: Building[] = [
   {
     id: 'space-sciences',
     name: 'Space Sciences Building',
-    position: { x: 520, y: 210 },
+    position: { x: 850, y: 400 },
     width: 72,
     height: 48,
     color: '#2C5282',
@@ -234,7 +234,7 @@ export const CORNELL_BUILDINGS: Building[] = [
   {
     id: 'statler-hall',
     name: 'Statler Hall',
-    position: { x: 620, y: 330 },
+    position: { x: 900, y: 600 },
     width: 80,
     height: 52,
     color: '#B7791F',
